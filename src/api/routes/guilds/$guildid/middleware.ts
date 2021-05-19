@@ -1,9 +1,9 @@
 import { PermissionFlag } from "@wilsonjs/constants";
 import { BasicGuild } from "@wilsonjs/models";
 
-import { Forbidden, InternalServerError } from "src/api/responses";
+import { Forbidden, Unauthorized } from "src/api/responses";
 import { AppReqHandler } from "src/api";
-import { ErrorCode } from "src/api/errors";
+import { ErrorCode } from "@swagclan/shared";
 
 export function canManage(guild?: BasicGuild) {
     if (!guild)
@@ -29,7 +29,7 @@ export default [
         const guilds = await req.session?.getGuilds();
 
         if (!guilds)
-            throw new InternalServerError(ErrorCode.NotLoggedIn);
+            throw new Unauthorized(ErrorCode.NotLoggedIn);
 
         const guild = guilds.find((guild) => guild.id === req.params.guildid);
 

@@ -1,20 +1,20 @@
-import { ScApiGetCommandResponse } from "@swagclan/shared";
-
-import { GetUserResponse } from "@wilsonjs/models";
+import { BasicUser, GetUserResponse } from "@wilsonjs/models";
 import { ApiEndpoints } from "@wilsonjs/constants";
+import { ErrorCode, ScApiGetCommandResponse } from "@swagclan/shared";
 
 import { CustomCommandIdModel } from "src/models/CustomCommandId";
-import { AppReqHandler, app } from "src/api";
 
 import { ResourceNotFound } from "src/api/responses";
-import { ErrorCode } from "src/api/errors";
+import { app, RequestInfo, ResponseInfo } from "src/api";
+import { Cached } from "src/api/Session";
 
 async function getUser(id: string): Promise<GetUserResponse|null> {
-    const cached = await app.redis.get("user." + id);
+    const cached = app.cache.get("user." + id) as Cached<BasicUser>;
 
-    if (cached && typeof cached === "string") {
-        // tedis can return a number
-        return JSON.parse(cached);
+    if (cached) {
+        if (Date.now() > cached.cached_at + 30000) {
+            return cached;
+        }
     }
 
     try {
@@ -29,8 +29,10 @@ async function getUser(id: string): Promise<GetUserResponse|null> {
             /* User ID */ id
         );
 
-        await app.redis.set("user." + id, JSON.stringify(user));
-        await app.redis.expire("user." + id, 30);
+        await app.cache.set("user." + id, {
+            ...user,
+            cached_at: Date.now()
+        });
 
         return user;
     } catch (e) {
@@ -38,57 +40,62 @@ async function getUser(id: string): Promise<GetUserResponse|null> {
     }
 }
 
-export default (async (req, res) => {
-    const doc = await CustomCommandIdModel.findOne({ id: req.params.id });
+export default class GetCommand {
+    static async handle(
+        req: RequestInfo<void>,
+        res: ResponseInfo<ScApiGetCommandResponse>
+    ) {
+        const doc = await CustomCommandIdModel.findOne({ id: req.params.id });
 
-    const user = await req.session?.getUser();
+        const user = await req.session?.getUser();
 
-    if (!doc)
-        throw new ResourceNotFound(ErrorCode.CommandNotFound);
+        if (!doc)
+            throw new ResourceNotFound(ErrorCode.CommandNotFound);
 
-    if (doc.deleted)
-        throw new ResourceNotFound(ErrorCode.CommandNotFound);
+        if (doc.deleted)
+            throw new ResourceNotFound(ErrorCode.CommandNotFound);
 
-    if (user?.id !== doc.author_id) {
-        doc.draft_guild_id = undefined;
-    }
-
-    if (req.query.author == "true") {
-        const author = await getUser(doc.author_id);
-
-        if (author) {
-            return res.status(200).json({
-                id: doc.id,
-                draft_guild_id: doc.draft_guild_id,
-                name: doc.name,
-                summary: doc.summary,
-                tags: doc.tags,
-                thumbnail: doc.thumbnail,
-                author_id: doc.author_id,
-                private: doc.private,
-                deleted: doc.deleted,
-                versions: doc.versions,
-                latest: doc.latest,
-                first: doc.first,
-                guild_count: doc.guild_count,
-                author
-            });
+        if (user?.id !== doc.author_id) {
+            doc.draft_guild_id = undefined;
         }
-    }
 
-    res.status(200).json({
-        id: doc.id,
-        draft_guild_id: doc.draft_guild_id,
-        name: doc.name,
-        summary: doc.summary,
-        tags: doc.tags,
-        thumbnail: doc.thumbnail,
-        author_id: doc.author_id,
-        private: doc.private,
-        deleted: doc.deleted,
-        versions: doc.versions,
-        latest: doc.latest,
-        first: doc.first,
-        guild_count: doc.guild_count
-    });
-}) as AppReqHandler<void, ScApiGetCommandResponse>;
+        if (req.query.author == "true") {
+            const author = await getUser(doc.author_id);
+
+            if (author) {
+                return res.status(200).json({
+                    id: doc.id,
+                    draft_guild_id: doc.draft_guild_id,
+                    name: doc.name,
+                    summary: doc.summary,
+                    tags: doc.tags,
+                    thumbnail: doc.thumbnail,
+                    author_id: doc.author_id,
+                    private: doc.private,
+                    deleted: doc.deleted,
+                    versions: doc.versions,
+                    latest: doc.latest,
+                    first: doc.first,
+                    guild_count: doc.guild_count,
+                    author
+                });
+            }
+        }
+
+        res.status(200).json({
+            id: doc.id,
+            draft_guild_id: doc.draft_guild_id,
+            name: doc.name,
+            summary: doc.summary,
+            tags: doc.tags,
+            thumbnail: doc.thumbnail,
+            author_id: doc.author_id,
+            private: doc.private,
+            deleted: doc.deleted,
+            versions: doc.versions,
+            latest: doc.latest,
+            first: doc.first,
+            guild_count: doc.guild_count
+        });
+    }
+}

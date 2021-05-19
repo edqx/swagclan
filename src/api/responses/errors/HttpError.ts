@@ -1,5 +1,5 @@
 import { HttpResponse } from "../Response";
-import { ErrorCode } from "../../errors";
+import { ErrorCode } from "@swagclan/shared";
 
 export class HttpError extends HttpResponse {
     constructor(

@@ -1,4 +1,6 @@
 export enum ErrorCode {
+    Unknown = "UNKNOWN",
+
     NotLoggedIn = "NOT_LOGGED_IN",
     InvalidSession = "INVALID_SESSION",
 

@@ -1,9 +1,9 @@
 import mongoose from "mongoose";
 import dotenv from "dotenv";
+import winston from "winston";
 import fs from "fs/promises";
 
-import { GlobalConfig } from "./GlobalConfig";
-import { AppLogger } from "../util/logger";
+import { v4 as uuidv4 } from "uuid";
 import { Tedis } from "tedis";
 
 import fetch, { Request } from "node-fetch";
@@ -17,14 +17,41 @@ import {
 
 import { BaseUrls } from "@wilsonjs/constants";
 
+import { GlobalConfig } from "./GlobalConfig";
+import { FatalErrorModel } from "src/models/FatalError";
+
 export class SwagclanApp {
     config!: GlobalConfig;
     db!: mongoose.Mongoose;
     redis!: Tedis;
-    logger: AppLogger;
+    logger: winston.Logger;
+
+    cache: Map<string, any>;
 
     constructor(public readonly namespace: string) {
-        this.logger = new AppLogger(this);
+        this.logger = winston.createLogger({
+            transports: [
+                new winston.transports.Console({
+                    format: winston.format.combine(
+                        winston.format.splat(),
+                        winston.format.colorize(),
+                        winston.format.label({ label: namespace }),
+                        winston.format.printf(info => {
+                            return `[${info.label}] ${info.level}: ${info.message}`;
+                        }),
+                    ),
+                }),
+                new winston.transports.File({
+                    filename: "logs.txt",
+                    format: winston.format.combine(
+                        winston.format.splat(),
+                        winston.format.simple()
+                    )
+                })
+            ]
+        });
+
+        this.cache = new Map;
     }
 
     async make<T = any>(
@@ -109,17 +136,33 @@ export class SwagclanApp {
             }
         );
 
-        this.logger.success("Successfully connected to MongoDB node.");
+        this.logger.info("Successfully connected to MongoDB node.");
 
         this.redis = new Tedis(this.config.redis);
 
-        this.logger.success("Redis connection instantiated.");
+        this.redis.on("connect", () => {
+            this.logger.info("Connected to Redis node.");
+        });
 
         process.on("SIGINT", async () => {
             this.logger.info("Shutting app down gracefully..");
             await this.shutdown();
             process.exit(0);
         });
+    }
+
+    async logFatal(error: Error, details?: any) {
+        const uuid = uuidv4();
+
+        await FatalErrorModel.create({
+            uuid,
+            details,
+            namespace: this.namespace,
+            error: error.message,
+            stack_trace: error.stack
+        });
+
+        return uuid;
     }
 
     async shutdown() {

@@ -1,5 +1,5 @@
 import { HttpError } from "./HttpError";
-import { ErrorCode } from "../../errors";
+import { ErrorCode } from "@swagclan/shared";
 
 export class ResourceNotFound extends HttpError {
     constructor(details: ErrorCode) {

@@ -69,5 +69,8 @@
     "paths": {
       "src/*": ["./src/*"]
     }
+  },
+  "ts-node": {
+    "transpileOnly": true
   }
 }

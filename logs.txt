@@ -1,0 +1,2786 @@
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /commands/:id/versions/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/search
+info: /commands/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/
+info: /user/commands/:id/available-guilds
+info: /user/commands/
+info: /user/commands/deleted
+info: /user/
+info: /user/guilds
+info: /logout
+info: /exchange
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: exchange
+info: logout
+info: 
+info: search
+info: 
+info: 
+info: $version
+info: $version
+info: 
+info: 
+info: 
+info: 
+info: 
+info: 
+info: 
+info: guilds
+info: 
+info: deleted
+info: 
+info: available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /commands/:id/versions/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/search
+info: /commands/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/
+info: /user/commands/:id/available-guilds
+info: /user/commands/
+info: /user/commands/deleted
+info: /user/
+info: /user/guilds
+info: /logout
+info: /exchange
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /commands/:id/versions/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/search
+info: /commands/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: /user/commands/:id/available-guilds
+info: /user/commands/
+info: /user/commands/deleted
+info: /user/
+info: /user/guilds
+info: /logout
+info: /exchange
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /commands/:id/versions/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/search
+info: /commands/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/
+info: /user/commands/:id/available-guilds
+info: /user/commands/
+info: /user/commands/deleted
+info: /user/
+info: /user/guilds
+info: /logout
+info: /exchange
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /commands/:id/versions/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/search
+info: /commands/
+info: /user/commands/:id/available-guilds
+info: /user/commands/
+info: /user/commands/deleted
+info: /user/guilds
+info: /user/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/
+info: /logout
+info: /exchange
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /user/commands/:id/available-guilds
+info: /user/commands/
+info: /user/commands/deleted
+info: /user/
+info: /user/guilds
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/
+info: /commands/:id/versions/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/search
+info: /commands/
+info: /logout
+info: /exchange
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: /exchange
+info: /logout
+info: /commands/
+info: /commands/search
+info: /commands/:id/
+info: /commands/:id/
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/:version
+info: /commands/:id/versions/
+info: /guilds/:guildid/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /guilds/:guildid/commands/:id/
+info: /user/guilds
+info: /user/
+info: /user/commands/deleted
+info: /user/commands/
+info: /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: (1/20) {"0":"/","1":"e","2":"x","3":"c","4":"h","5":"a","6":"n","7":"g","8":"e"}
+info: (2/20) {"0":"/","1":"l","2":"o","3":"g","4":"o","5":"u","6":"t"}
+info: (3/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/"}
+info: (4/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/","10":"s","11":"e","12":"a","13":"r","14":"c","15":"h"}
+info: (5/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/","10":":","11":"i","12":"d","13":"/"}
+info: (6/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/","10":":","11":"i","12":"d","13":"/"}
+info: (7/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/","10":":","11":"i","12":"d","13":"/","14":"v","15":"e","16":"r","17":"s","18":"i","19":"o","20":"n","21":"s","22":"/","23":":","24":"v","25":"e","26":"r","27":"s","28":"i","29":"o","30":"n"}
+info: (8/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/","10":":","11":"i","12":"d","13":"/","14":"v","15":"e","16":"r","17":"s","18":"i","19":"o","20":"n","21":"s","22":"/","23":":","24":"v","25":"e","26":"r","27":"s","28":"i","29":"o","30":"n"}
+info: (9/20) {"0":"/","1":"c","2":"o","3":"m","4":"m","5":"a","6":"n","7":"d","8":"s","9":"/","10":":","11":"i","12":"d","13":"/","14":"v","15":"e","16":"r","17":"s","18":"i","19":"o","20":"n","21":"s","22":"/"}
+info: (10/20) {"0":"/","1":"g","2":"u","3":"i","4":"l","5":"d","6":"s","7":"/","8":":","9":"g","10":"u","11":"i","12":"l","13":"d","14":"i","15":"d","16":"/"}
+info: (11/20) {"0":"/","1":"g","2":"u","3":"i","4":"l","5":"d","6":"s","7":"/","8":":","9":"g","10":"u","11":"i","12":"l","13":"d","14":"i","15":"d","16":"/","17":"c","18":"o","19":"m","20":"m","21":"a","22":"n","23":"d","24":"s","25":"/"}
+info: (12/20) {"0":"/","1":"g","2":"u","3":"i","4":"l","5":"d","6":"s","7":"/","8":":","9":"g","10":"u","11":"i","12":"l","13":"d","14":"i","15":"d","16":"/","17":"c","18":"o","19":"m","20":"m","21":"a","22":"n","23":"d","24":"s","25":"/"}
+info: (13/20) {"0":"/","1":"g","2":"u","3":"i","4":"l","5":"d","6":"s","7":"/","8":":","9":"g","10":"u","11":"i","12":"l","13":"d","14":"i","15":"d","16":"/","17":"c","18":"o","19":"m","20":"m","21":"a","22":"n","23":"d","24":"s","25":"/","26":":","27":"i","28":"d","29":"/"}
+info: (14/20) {"0":"/","1":"g","2":"u","3":"i","4":"l","5":"d","6":"s","7":"/","8":":","9":"g","10":"u","11":"i","12":"l","13":"d","14":"i","15":"d","16":"/","17":"c","18":"o","19":"m","20":"m","21":"a","22":"n","23":"d","24":"s","25":"/","26":":","27":"i","28":"d","29":"/"}
+info: (15/20) {"0":"/","1":"g","2":"u","3":"i","4":"l","5":"d","6":"s","7":"/","8":":","9":"g","10":"u","11":"i","12":"l","13":"d","14":"i","15":"d","16":"/","17":"c","18":"o","19":"m","20":"m","21":"a","22":"n","23":"d","24":"s","25":"/","26":":","27":"i","28":"d","29":"/"}
+info: (16/20) {"0":"/","1":"u","2":"s","3":"e","4":"r","5":"/","6":"g","7":"u","8":"i","9":"l","10":"d","11":"s"}
+info: (17/20) {"0":"/","1":"u","2":"s","3":"e","4":"r","5":"/"}
+info: (18/20) {"0":"/","1":"u","2":"s","3":"e","4":"r","5":"/","6":"c","7":"o","8":"m","9":"m","10":"a","11":"n","12":"d","13":"s","14":"/","15":"d","16":"e","17":"l","18":"e","19":"t","20":"e","21":"d"}
+info: (19/20) {"0":"/","1":"u","2":"s","3":"e","4":"r","5":"/","6":"c","7":"o","8":"m","9":"m","10":"a","11":"n","12":"d","13":"s","14":"/"}
+info: (20/20) {"0":"/","1":"u","2":"s","3":"e","4":"r","5":"/","6":"c","7":"o","8":"m","9":"m","10":"a","11":"n","12":"d","13":"s","14":"/","15":":","16":"i","17":"d","18":"/","19":"a","20":"v","21":"a","22":"i","23":"l","24":"a","25":"b","26":"l","27":"e","28":"-","29":"g","30":"u","31":"i","32":"l","33":"d","34":"s"}
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: (1/20) /exchange
+info: (2/20) /logout
+info: (3/20) /guilds/:guildid/
+info: (4/20) /guilds/:guildid/commands/
+info: (5/20) /guilds/:guildid/commands/
+info: (6/20) /guilds/:guildid/commands/:id/
+info: (7/20) /guilds/:guildid/commands/:id/
+info: (8/20) /guilds/:guildid/commands/:id/
+info: (9/20) /commands/
+info: (10/20) /commands/search
+info: (11/20) /commands/:id/
+info: (12/20) /commands/:id/
+info: (13/20) /commands/:id/versions/:version
+info: (14/20) /commands/:id/versions/:version
+info: (15/20) /commands/:id/versions/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/search
+info: ( 4/20) /commands/
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/search
+info: ( 4/20) /commands/
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Took 19.03s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /user/guilds
+info: (11/20) /user/
+info: (12/20) /user/commands/deleted
+info: (13/20) /user/commands/
+info: (14/20) /user/commands/:id/available-guilds
+info: (15/20) /guilds/:guildid/
+info: (16/20) /guilds/:guildid/commands/
+info: (17/20) /guilds/:guildid/commands/
+info: (18/20) /guilds/:guildid/commands/:id/
+info: (19/20) /guilds/:guildid/commands/:id/
+info: (20/20) /guilds/:guildid/commands/:id/
+info: Took 1.95s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/
+info: (19/20) /user/commands/deleted
+info: (20/20) /user/commands/:id/available-guilds
+info: Took 0.75s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/search
+info: ( 4/20) /commands/
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Took 0.72s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Closed HTTP server.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Took 0.75s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/search
+info: ( 4/20) /commands/
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Took 0.66s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/20) /exchange
+info: ( 2/20) /logout
+info: ( 3/20) /commands/
+info: ( 4/20) /commands/search
+info: ( 5/20) /commands/:id/
+info: ( 6/20) /commands/:id/
+info: ( 7/20) /commands/:id/versions/:version
+info: ( 8/20) /commands/:id/versions/:version
+info: ( 9/20) /commands/:id/versions/
+info: (10/20) /guilds/:guildid/
+info: (11/20) /guilds/:guildid/commands/
+info: (12/20) /guilds/:guildid/commands/
+info: (13/20) /guilds/:guildid/commands/:id/
+info: (14/20) /guilds/:guildid/commands/:id/
+info: (15/20) /guilds/:guildid/commands/:id/
+info: (16/20) /user/guilds
+info: (17/20) /user/
+info: (18/20) /user/commands/deleted
+info: (19/20) /user/commands/
+info: (20/20) /user/commands/:id/available-guilds
+info: Took 0.68s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22) MIDDLE /guilds/:guildid (0.20s)
+info: ( 2/22) MIDDLE  (0.08s)
+info: ( 1/22)    GET /exchange (0.03s)
+info: ( 2/22)   POST /logout (0.01s)
+info: ( 3/22)   POST /commands/ (0.21s)
+info: ( 4/22)   POST /commands/search (0.02s)
+info: ( 5/22)  PATCH /commands/:id/ (0.07s)
+info: ( 6/22)    GET /commands/:id/ (0.04s)
+info: ( 7/22) DELETE /commands/:id/versions/:version (0.04s)
+info: ( 8/22)    GET /commands/:id/versions/:version (0.01s)
+info: ( 9/22)   POST /commands/:id/versions/ (0.06s)
+info: (10/22)    GET /guilds/:guildid/ (0.05s)
+info: (11/22)    GET /guilds/:guildid/commands/ (0.01s)
+info: (12/22)   POST /guilds/:guildid/commands/ (0.04s)
+info: (13/22) DELETE /guilds/:guildid/commands/:id/ (0.03s)
+info: (14/22)    GET /guilds/:guildid/commands/:id/ (0.01s)
+info: (15/22)  PATCH /guilds/:guildid/commands/:id/ (0.03s)
+info: (16/22)    GET /user/guilds (0.02s)
+info: (17/22)    GET /user/ (0.01s)
+info: (18/22)    GET /user/commands/deleted (0.01s)
+info: (19/22)    GET /user/commands/ (0.01s)
+info: (20/22)    GET /user/commands/:id/available-guilds (0.02s)
+info: Took 1.01s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22) MIDDLE /guilds/:guildid (0.17s)
+info: ( 2/22) MIDDLE  (0.08s)
+info: ( 1/22)    GET /exchange (0.02s)
+info: ( 2/22)   POST /logout (0.01s)
+info: ( 3/22)   POST /commands/ (0.21s)
+info: ( 4/22)   POST /commands/search (0.02s)
+info: ( 5/22)    GET /commands/:id/ (0.03s)
+info: ( 6/22)  PATCH /commands/:id/ (0.06s)
+info: ( 7/22) DELETE /commands/:id/versions/:version (0.02s)
+info: ( 8/22)    GET /commands/:id/versions/:version (0.01s)
+info: ( 9/22)   POST /commands/:id/versions/ (0.04s)
+info: (10/22)    GET /guilds/:guildid/ (0.04s)
+info: (11/22)    GET /guilds/:guildid/commands/ (0.01s)
+info: (12/22)   POST /guilds/:guildid/commands/ (0.04s)
+info: (13/22) DELETE /guilds/:guildid/commands/:id/ (0.03s)
+info: (14/22)    GET /guilds/:guildid/commands/:id/ (0.01s)
+info: (15/22)  PATCH /guilds/:guildid/commands/:id/ (0.03s)
+info: (16/22)    GET /user/guilds (0.01s)
+info: (17/22)    GET /user/ (0.01s)
+info: (18/22)    GET /user/commands/deleted (0.01s)
+info: (19/22)    GET /user/commands/ (0.01s)
+info: (20/22)    GET /user/commands/:id/available-guilds (0.02s)
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 0.16s) MIDDLE /guilds/:guildid
+info: ( 2/22 0.07s) MIDDLE 
+info: ( 1/22)    GET /exchange (0.02s)
+info: ( 2/22)   POST /logout (0.01s)
+info: ( 3/22)   POST /commands/ (0.20s)
+info: ( 4/22)   POST /commands/search (0.02s)
+info: ( 5/22)    GET /commands/:id/ (0.03s)
+info: ( 6/22)  PATCH /commands/:id/ (0.06s)
+info: ( 7/22) DELETE /commands/:id/versions/:version (0.02s)
+info: ( 8/22)    GET /commands/:id/versions/:version (0.01s)
+info: ( 9/22)   POST /commands/:id/versions/ (0.04s)
+info: (10/22)    GET /guilds/:guildid/ (0.04s)
+info: (11/22)    GET /guilds/:guildid/commands/ (0.01s)
+info: (12/22)   POST /guilds/:guildid/commands/ (0.04s)
+info: (13/22) DELETE /guilds/:guildid/commands/:id/ (0.03s)
+info: (14/22)    GET /guilds/:guildid/commands/:id/ (0.01s)
+info: (15/22)  PATCH /guilds/:guildid/commands/:id/ (0.03s)
+info: (16/22)    GET /user/guilds (0.02s)
+info: (17/22)    GET /user/ (0.01s)
+info: (18/22)    GET /user/commands/deleted (0.01s)
+info: (19/22)    GET /user/commands/ (0.01s)
+info: (20/22)    GET /user/commands/:id/available-guilds (0.02s)
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17[39ms) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08[39ms) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02[39ms) [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms) [33mPOST[39m /logout
+info: ( 3/22 - [31m0.20[39ms) [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.03[39ms) [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03[39ms) [32mGET[39m /commands/$id/
+info: ( 6/22 - [33m0.06[39ms) [34mPATCH[39m /commands/$id/
+info: ( 7/22 - [32m0.02[39ms) [31mDELETE[39m /commands/$id/versions/$version
+info: ( 8/22 - [32m0.01[39ms) [32mGET[39m /commands/$id/versions/$version
+info: ( 9/22 - [32m0.04[39ms) [33mPOST[39m /commands/$id/versions/
+info: (10/22 - [32m0.03[39ms) [32mGET[39m /guilds/$guildid/
+info: (11/22 - [32m0.01[39ms) [32mGET[39m /guilds/$guildid/commands/
+info: (12/22 - [32m0.04[39ms) [33mPOST[39m /guilds/$guildid/commands/
+info: (13/22 - [32m0.03[39ms) [31mDELETE[39m /guilds/$guildid/commands/$id/
+info: (14/22 - [32m0.01[39ms) [32mGET[39m /guilds/$guildid/commands/$id/
+info: (15/22 - [32m0.03[39ms) [34mPATCH[39m /guilds/$guildid/commands/$id/
+info: (16/22 - [32m0.01[39ms) [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01[39ms) [32mGET[39m /user/
+info: (18/22 - [32m0.01[39ms) [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms) [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms) [32mGET[39m /user/commands/$id/available-guilds
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.18[39ms) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09[39ms) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.03[39ms) [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms) [33mPOST[39m /logout
+info: ( 3/22 - [31m0.21[39ms) [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.03[39ms) [33mPOST[39m /commands/search
+info: ( 5/22 - [33m0.05[39ms) [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.09[39ms) [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.03[39ms) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01[39ms) [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [33m0.06[39ms) [33mPOST[39m /commands/[36m:id[39m/versions/
+info: (10/22 - [32m0.04[39ms) [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.01[39ms) [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.04[39ms) [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03[39ms) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.01[39ms) [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03[39ms) [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01[39ms) [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01[39ms) [32mGET[39m /user/
+info: (18/22 - [32m0.01[39ms) [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms) [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms) [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.01s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16[39mss) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07[39mss) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02[39ms) [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms) [33mPOST[39m /logout
+info: ( 3/22 - [31m0.20[39ms) [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.03[39ms) [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03[39ms) [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.06[39ms) [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.02[39ms) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.04[39ms) [33mPOST[39m /commands/[36m:id[39m/versions/
+info: ( 9/22 - [32m0.01[39ms) [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: (10/22 - [32m0.03[39ms) [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.01[39ms) [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.03[39ms) [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03[39ms) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.01[39ms) [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03[39ms) [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01[39ms) [32mGET[39m /user/
+info: (17/22 - [32m0.01[39ms) [32mGET[39m /user/guilds
+info: (18/22 - [32m0.01[39ms) [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms) [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms) [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.87s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17[39mss) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08[39mss) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02[39ms) [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms) [33mPOST[39m /logout
+info: ( 3/22 - [31m0.20[39ms) [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.03[39ms) [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03[39ms) [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.06[39ms) [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.02[39ms) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.04[39ms) [33mPOST[39m /commands/[36m:id[39m/versions/
+info: ( 9/22 - [32m0.01[39ms) [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: (10/22 - [32m0.04[39ms) [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.01[39ms) [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.04[39ms) [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03[39ms) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.01[39ms) [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03[39ms) [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01[39ms) [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01[39ms) [32mGET[39m /user/
+info: (18/22 - [32m0.01[39ms) [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms) [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms) [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16[39mss)   [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08[39mss)   [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02[39ms)      [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms)     [33mPOST[39m /logout
+info: ( 3/22 - [31m0.22[39ms)     [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.03[39ms)     [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03[39ms)      [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.06[39ms)    [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.02[39ms)   [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01[39ms)      [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.04[39ms)     [33mPOST[39m /commands/[36m:id[39m/versions/
+info: (10/22 - [32m0.04[39ms)      [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.01[39ms)      [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.04[39ms)     [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03[39ms)   [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.01[39ms)      [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03[39ms)    [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01[39ms)      [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01[39ms)      [32mGET[39m /user/
+info: (18/22 - [32m0.01[39ms)      [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms)      [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms)      [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17[39mss) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08[39mss) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02[39ms)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.18[39ms)   [33mPOST[39m /commands/search
+info: ( 4/22 - [32m0.04[39ms)   [33mPOST[39m /commands/
+info: ( 5/22 - [32m0.03[39ms)    [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.06[39ms)  [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.02[39ms) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01[39ms)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.04[39ms)   [33mPOST[39m /commands/[36m:id[39m/versions/
+info: (10/22 - [32m0.03[39ms)    [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.01[39ms)    [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.04[39ms)   [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03[39ms) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.02[39ms)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03[39ms)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01[39ms)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01[39ms)    [32mGET[39m /user/
+info: (18/22 - [32m0.01[39ms)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms)    [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16[39ms) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08[39ms) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02[39ms)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01[39ms)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.20[39ms)   [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.02[39ms)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03[39ms)    [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.06[39ms)  [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.02[39ms) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01[39ms)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05[39ms)   [33mPOST[39m /commands/[36m:id[39m/versions/
+info: (10/22 - [32m0.04[39ms)    [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.01[39ms)    [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.04[39ms)   [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03[39ms) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.01[39ms)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03[39ms)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01[39ms)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01[39ms)    [32mGET[39m /user/
+info: (18/22 - [32m0.01[39ms)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01[39ms)    [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02[39ms)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08s[39m) [90mMIDDLE[39m 
+info: ( 1/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.21s[39m)   [33mPOST[39m /commands/
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m/
+info: ( 6/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m/
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions/
+info: (10/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands/
+info: (12/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (15/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m/
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user/
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.18s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [31m0.13s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.21s[39m)   [33mPOST[39m /command
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/:i
+info: ( 6/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/:i
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/version
+info: (10/22 - [32m0.04s[39m)    [32mGET[39m /guilds/:guildi
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/command
+info: (12/22 - [33m0.07s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/command
+info: (13/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/:i
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/:i
+info: (15/22 - [32m0.04s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/:i
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /use
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/command
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.03s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 2/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 3/22 - [31m0.20s[39m)   [33mPOST[39m /commands
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/:id
+info: ( 6/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/:id
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (10/22 - [32m0.04s[39m)    [32mGET[39m /guilds/:guildid
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (12/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/:id
+info: (14/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/:id
+info: (15/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/:id
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.13s[39m)    [32mGET[39m /guilds/:guildid
+info: ( 4/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 5/22 - [31m0.14s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 6/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/:id
+info: ( 7/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/:id
+info: ( 8/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/:id
+info: ( 9/22 - [32m0.04s[39m)   [33mPOST[39m /commands
+info: (10/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (11/22 - [32m0.03s[39m)    [32mGET[39m /commands/:id
+info: (12/22 - [32m0.03s[39m)  [34mPATCH[39m /commands/:id
+info: (13/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: (15/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.90s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.23s[39m)   [33mPOST[39m /commands
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.04s[39m)    [32mGET[39m /commands/:id
+info: ( 6/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/:id
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (10/22 - [32m0.04s[39m)    [32mGET[39m /guilds/:guildid
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (12/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/:id
+info: (14/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/:id
+info: (15/22 - [32m0.05s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/:id
+info: (16/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.99s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.19s[39m)   [33mPOST[39m /commands
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/:id
+info: ( 6/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/:id
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (10/22 - [32m0.03s[39m)    [32mGET[39m /guilds/:guildid
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (12/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/:id
+info: (14/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/:id
+info: (15/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/:id
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.20s[39m)   [33mPOST[39m /commands
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/:id
+info: ( 6/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/:id
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/:version
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/:version
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (10/22 - [32m0.03s[39m)    [32mGET[39m /guilds/:guildid
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (12/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/:id
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/:id
+info: (15/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/:id
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.19s[39m)   [33mPOST[39m /commands
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 6/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (10/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (12/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (15/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 1/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 2/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 3/22 - [31m0.20s[39m)   [33mPOST[39m /commands
+info: ( 4/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 5/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 6/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 7/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: ( 8/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: ( 9/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (10/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (12/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (13/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (15/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.87s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.20s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (16/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.22s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.05s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.90s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.20s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.04s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.04s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.90s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [31m0.16s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m1.27s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [33m0.05s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 8/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.02s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.02s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 2.15s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.17s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.17s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.07s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.94s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.19s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.25s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.03s
+info: Listening on *:3002
+info:    [32mGET[39m /user
+info:    [32mGET[39m /user/commands
+info:    [32mGET[39m /commands/[36m:id[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.18s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.24s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [31m0.10s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.06s
+info: Listening on *:3002
+info:    [32mGET[39m /user/commands
+info:    [32mGET[39m /user
+info:    [32mGET[39m /user/commands
+info:    [32mGET[39m /commands/[36m:id[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.19s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.21s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.94s
+info: Listening on *:3002
+info:    [32mGET[39m /user
+info:    [32mGET[39m /commands/[36m:id[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.20s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.21s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.05s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.06s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.96s
+info: Listening on *:3002
+info:    [32mGET[39m /user
+info:    [32mGET[39m /commands/[36m:id[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.22s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [31m0.10s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.27s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.05s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.07s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.16s
+info: Listening on *:3002
+info:    [32mGET[39m /user
+info:    [32mGET[39m /user/commands
+info:    [32mGET[39m /commands/[36m:id[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.24s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.10s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.15s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: ( 6/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 7/22 - [31m0.17s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 8/22 - [32m0.03s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (10/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands
+info: (12/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (13/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: (14/22 - [32m0.02s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: (15/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (16/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (17/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.08s
+info: Listening on *:3002
+info:    [32mGET[39m /user
+info:    [32mGET[39m /user/commands
+info:    [32mGET[39m /commands/[36m:id[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.21s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.08s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [33m0.06s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.20s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: ( 6/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 7/22 - [31m0.21s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: ( 8/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands
+info: (12/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (13/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: (14/22 - [32m0.03s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: (15/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (17/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.15s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /user/guilds
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.18s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.07s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.22s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.06s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.93s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.22s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [31m0.10s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.17s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.09s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [33m0.05s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.09s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.10s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /user/guilds
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /user/commands/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.18s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.22s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.99s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.19s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.24s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.04s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.10s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.10s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.20s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.22s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.03s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.02s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.22s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.23s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.02s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.30s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 2/22 - [31m0.12s[39m) [90mMIDDLE[39m /
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.24s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.08s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [33m0.06s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.17s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.25s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.04s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.28s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.06s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.25s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.13s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: ( 6/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 7/22 - [31m0.19s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: ( 8/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (10/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands
+info: (12/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: (14/22 - [32m0.02s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: (15/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (17/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.96s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.23s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - 0.02s) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - 0.02s)    [32mGET[39m /exchange
+info: ( 4/22 - 0.01s)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.20s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - 0.02s)   [33mPOST[39m /commands/search
+info: ( 7/22 - 0.03s)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - 0.02s) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - 0.04s)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (11/22 - 0.01s)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (12/22 - 0.03s)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - 0.01s)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - 0.00s)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - 0.03s) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - 0.01s)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - 0.01s)    [32mGET[39m /user/guilds
+info: (19/22 - 0.01s)    [32mGET[39m /user
+info: (20/22 - 0.01s)    [32mGET[39m /user/commands/deleted
+info: (21/22 - 0.01s)    [32mGET[39m /user/commands
+info: (22/22 - 0.02s)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.89s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.23s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.16s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.07s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.91s
+info: Listening on *:3002
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/
+info: [31mDELETE[39m /guilds/[36m746067864481431562[39m/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /user/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/available-guilds
+info:   [33mPOST[39m /guilds/[36m746067864481431562[39m/commands/
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/
+info:  [34mPATCH[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.16s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [31m0.21s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.14s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.95s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.41s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.13s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.01s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.09s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.05s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.35s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: ( 6/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 7/22 - [31m0.17s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: ( 8/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (11/22 - [32m0.03s[39m)   [33mPOST[39m /commands
+info: (12/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: (14/22 - [32m0.03s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: (15/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (17/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.94s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.37s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.16s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user
+info: (19/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.02s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.12s
+info: Listening on *:3002
+info:    [32mGET[39m /exchange
+info:    [32mGET[39m /user/
+info:    [32mGET[39m /user/
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.35s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.15s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.03s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.37s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.15s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.09s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.09s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.05s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.16s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.39s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.11s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.07s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.06s
+info: Listening on *:3002
+info:    [32mGET[39m /user/ -> [31m401[39m
+info:    [32mGET[39m /exchange -> [36m302[39m
+info:    [32mGET[39m /user/ -> [32m200[39m
+info:    [32mGET[39m /user/commands/ -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/ -> [32m200[39m
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/ -> [32m200[39m
+info: [31mDELETE[39m /guilds/[36m746067864481431562[39m/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/ -> [32m204[39m
+info:    [32mGET[39m /user/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/available-guilds -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/ -> [32m200[39m
+info:   [33mPOST[39m /guilds/[36m746067864481431562[39m/commands/ -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/ -> [32m200[39m
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m/ -> [32m200[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.34s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.19s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.08s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [31m0.13s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.04s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.02s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.02s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.21s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /commands/$id -> [32m200[39m
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /user/commands -> [31m401[39m
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /exchange -> [36m302[39m
+info:    [32mGET[39m /user -> [32m200[39m
+info:    [32mGET[39m /user/commands -> [32m200[39m
+info:    [32mGET[39m /commands/$id -> [32m200[39m
+info:    [32mGET[39m /guilds/$guildid -> [32m200[39m
+info: [31mDELETE[39m /guilds/$guildid/commands/$id -> [32m204[39m
+info:    [32mGET[39m /user/commands/$id/available-guilds -> [32m200[39m
+info:    [32mGET[39m /commands/$id -> [32m200[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.42s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.03s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.18s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.08s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.09s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.22s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /user/commands/$id/available-guilds -> [31m401[39m
+info:    [32mGET[39m /commands/$id -> [32m200[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.33s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.14s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.08s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.02s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (11/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.03s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.33s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.03s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [33m0.08s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: ( 6/22 - [33m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 7/22 - [31m0.23s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: ( 8/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (10/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands
+info: (12/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (13/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: (14/22 - [32m0.03s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: (15/22 - [32m0.02s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (17/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.10s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.39s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [33m0.09s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.06s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /user/guilds
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (14/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (15/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (16/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: (17/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (19/22 - [33m0.06s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (20/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (21/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: Took 1.04s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.36s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.14s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.06s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.02s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.00s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.33s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.10s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.07s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 8/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.01s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [32m200[39m
+info:    [32mGET[39m /user/guilds -> [32m200[39m
+info:    [32mGET[39m /user/commands -> [32m200[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.35s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.13s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.02s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.00s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.39s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [33m0.08s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: ( 6/22 - [33m0.06s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: ( 7/22 - [31m0.24s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: ( 8/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: ( 9/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (10/22 - [32m0.05s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands
+info: (12/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: (13/22 - [32m0.04s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: (14/22 - [32m0.02s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: (15/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (16/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (17/22 - [33m0.06s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.20s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.35s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.15s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (11/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.01s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.35s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.00s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.10s[39m)   [33mPOST[39m /commands/search
+info: ( 6/22 - [33m0.07s[39m)   [33mPOST[39m /commands
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.08s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.04s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.04s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 1.07s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.31s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.02s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.02s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.13s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.03s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.05s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.98s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /user/commands -> [31m401[39m
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /exchange -> [36m302[39m
+info:    [32mGET[39m /user -> [32m200[39m
+info:    [32mGET[39m /user/guilds -> [32m200[39m
+info:    [32mGET[39m /user/commands -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [32m200[39m
+info:    [32mGET[39m /user/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/available-guilds -> [32m200[39m
+info:   [33mPOST[39m /guilds/[36m746067864481431562[39m/commands -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [32m200[39m
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m -> [32m200[39m
+info:    [32mGET[39m /user/commands -> [32m200[39m
+info:    [32mGET[39m /commands/[36m9809c8d2-eb7d-46fb-a929-db3af8fa0b59[39m -> [32m200[39m
+info:    [32mGET[39m /user/commands -> [36m304[39m
+info:  [34mPATCH[39m /commands/[36m9809c8d2-eb7d-46fb-a929-db3af8fa0b59[39m -> [32m200[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.03s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.01s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.13s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.04s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.03s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.02s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.74s
+info: Listening on *:3002
+info:    [32mGET[39m /user/commands -> [31m401[39m
+info: Shutting app down gracefully..
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [33m0.09s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.03s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.01s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.14s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.07s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.03s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.77s
+info: Listening on *:3002
+info:    [32mGET[39m /user/commands -> [31m401[39m
+info:    [32mGET[39m /user/commands -> [31m401[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [31m0.13s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.04s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.01s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.18s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.03s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [33m0.06s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.08s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [32m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.08s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.02s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.88s
+info: Listening on *:3002
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.
+info: Starting api service..
+info: Loaded environment variables.
+info: Loaded configuration.
+info: Successfully connected to MongoDB node.
+info: Connected to Redis node.
+info: ( 1/22 - [33m0.08s[39m) [90mMIDDLE[39m /
+info: ( 2/22 - [32m0.03s[39m) [90mMIDDLE[39m /guilds/$guildid
+info: ( 3/22 - [32m0.01s[39m)    [32mGET[39m /exchange
+info: ( 4/22 - [32m0.01s[39m)   [33mPOST[39m /logout
+info: ( 5/22 - [31m0.15s[39m)   [33mPOST[39m /commands
+info: ( 6/22 - [32m0.02s[39m)   [33mPOST[39m /commands/search
+info: ( 7/22 - [32m0.04s[39m)    [32mGET[39m /commands/[36m:id[39m
+info: ( 8/22 - [33m0.06s[39m)  [34mPATCH[39m /commands/[36m:id[39m
+info: ( 9/22 - [32m0.03s[39m) [31mDELETE[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (10/22 - [32m0.01s[39m)    [32mGET[39m /commands/[36m:id[39m/versions/[36m:version[39m
+info: (11/22 - [33m0.05s[39m)   [33mPOST[39m /commands/[36m:id[39m/versions
+info: (12/22 - [32m0.04s[39m)    [32mGET[39m /guilds/[36m:guildid[39m
+info: (13/22 - [32m0.02s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands
+info: (14/22 - [33m0.07s[39m)  [34mPATCH[39m /guilds/[36m:guildid[39m/commands
+info: (15/22 - [32m0.00s[39m)   [33mPOST[39m /guilds/[36m:guildid[39m/commands
+info: (16/22 - [32m0.03s[39m) [31mDELETE[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (17/22 - [32m0.01s[39m)    [32mGET[39m /guilds/[36m:guildid[39m/commands/[36m:id[39m
+info: (18/22 - [32m0.01s[39m)    [32mGET[39m /user/guilds
+info: (19/22 - [32m0.01s[39m)    [32mGET[39m /user
+info: (20/22 - [32m0.01s[39m)    [32mGET[39m /user/commands/deleted
+info: (21/22 - [32m0.01s[39m)    [32mGET[39m /user/commands
+info: (22/22 - [32m0.02s[39m)    [32mGET[39m /user/commands/[36m:id[39m/available-guilds
+info: Took 0.74s
+info: Listening on *:3002
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /user/commands -> [31m401[39m
+info:    [32mGET[39m /user -> [31m401[39m
+info:    [32mGET[39m /exchange -> [36m302[39m
+info:    [32mGET[39m /user -> [32m200[39m
+info:    [32mGET[39m /user/commands -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [36m304[39m
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m -> [32m200[39m
+info: [31mDELETE[39m /guilds/[36m746067864481431562[39m/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [32m204[39m
+info:    [32mGET[39m /user/commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m/available-guilds -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [36m304[39m
+info:   [33mPOST[39m /guilds/[36m746067864481431562[39m/commands -> [32m200[39m
+info:    [32mGET[39m /commands/[36md131df9c-d247-47d4-894a-3b470c6b5429[39m -> [36m304[39m
+info:    [32mGET[39m /guilds/[36m746067864481431562[39m -> [32m200[39m
+info: Shutting app down gracefully..
+info: Closed MongoDB node connection and Redis connection.

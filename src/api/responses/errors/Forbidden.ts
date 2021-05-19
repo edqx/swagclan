@@ -1,4 +1,4 @@
-import { ErrorCode } from "src/api/errors";
+import { ErrorCode } from "@swagclan/shared";
 import { HttpError } from "./HttpError";
 
 export class Forbidden extends HttpError {
