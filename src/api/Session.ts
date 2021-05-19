@@ -71,8 +71,8 @@ export class UserSession implements LoginSession {
                 "/oauth2/token",
                 {
                     body: querystring.stringify({
-                        client_id: process.env.CLIENT_ID,
-                        client_secret: process.env.CLIENT_SECRET,
+                        client_id: app.config.client.client_id,
+                        client_secret: app.config.client.client_secret,
                         grant_type: "authorization_code",
                         code: code,
                         redirect_uri: app.config.base_api + "/exchange",
@@ -110,8 +110,8 @@ export class UserSession implements LoginSession {
                         "/oauth2/token",
                         {
                             body: querystring.stringify({
-                                client_id: process.env.CLIENT_ID,
-                                client_secret: process.env.CLIENT_SECRET,
+                                client_id: app.config.client.client_id,
+                                client_secret: app.config.client.client_secret,
                                 grant_type: "refresh_token",
                                 refresh_token: cached.refresh_token,
                                 redirect_uri: app.config.base_api + "/exchange",

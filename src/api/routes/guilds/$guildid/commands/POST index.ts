@@ -6,10 +6,11 @@ import { ApiEndpoints } from "@wilsonjs/client";
 import { ErrorCode, ScApiCreateGuildCommandResponse } from "@swagclan/shared";
 
 import { GuildCommandModel } from "src/models/GuildCommand";
-import { CustomCommandVersionModel } from "src/models/CustomCommandVersion";
-import { CustomCommandIdModel } from "src/models/CustomCommandId";
+import { CustomCommandVersion, CustomCommandVersionModel } from "src/models/CustomCommandVersion";
+import { CustomCommandId, CustomCommandIdModel } from "src/models/CustomCommandId";
 
 import {
+    BadRequest,
     Conflict,
     Forbidden,
     ResourceNotFound,
@@ -21,6 +22,36 @@ import { CustomCommandDriver } from "src/drivers/CustomCommandDriver";
 
 import { ValidateSchema } from "src/api/hooks/validate";
 import { RequireAuth } from "src/api/hooks/auth";
+
+async function createAppCommand(guild_id: string, command_id: CustomCommandId, command_version: CustomCommandVersion) {
+    try {
+        return await app.make<CreateGuildApplicationCommandResponse>(
+            "POST",
+            ApiEndpoints.CreateGuildApplicationCommand,
+            {
+                body: JSON.stringify(
+                    CustomCommandDriver.createDiscordInteraction(
+                        command_id,
+                        command_version
+                    )
+                ),
+                headers: {
+                    "Content-Type": "application/json"
+                }
+            },
+            /* Application ID */ app.config.client.client_id,
+            /* Guild ID */ guild_id
+        );
+    } catch (e) {
+        if (typeof e === "number") {
+            if (e === 403) {
+                throw new BadRequest(ErrorCode.BotHasInvalidPermissions);
+            }
+        }
+
+        throw e;
+    }
+}
 
 export const CreateGuildCommandSchema = zod.object({
     command_id: zod.string(),
@@ -97,23 +128,7 @@ export default class CreateGuildCommand {
         if (!command_version)
             throw new ResourceNotFound(ErrorCode.CommandVersionNotFound);
 
-        const app_command = await app.make<CreateGuildApplicationCommandResponse>(
-            "POST",
-            ApiEndpoints.CreateGuildApplicationCommand,
-            {
-                body: JSON.stringify(
-                    CustomCommandDriver.createDiscordInteraction(
-                        command_id,
-                        command_version
-                    )
-                ),
-                headers: {
-                    "Content-Type": "application/json"
-                }
-            },
-            /* Application ID */ process.env.CLIENT_ID,
-            /* Guild ID */ req.params.guildid
-        );
+        const app_command = await createAppCommand(req.params.guildid, command_id, command_version);
 
         const doc = await GuildCommandModel.create({
             ...req.body,

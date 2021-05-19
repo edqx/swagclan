@@ -21,11 +21,7 @@ async function getUser(id: string): Promise<GetUserResponse|null> {
         const user = await app.make<GetUserResponse>(
             "GET",
             ApiEndpoints.GetUser,
-            {
-                headers: {
-                    Authorization: "Bot " + process.env.BOT_TOKEN
-                }
-            },
+            {},
             /* User ID */ id
         );
 

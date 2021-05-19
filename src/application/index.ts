@@ -12,10 +12,11 @@ import {
     HttpMethod,
     HttpRequestOptions,
     formatEndpoint,
-    stringifyQuery
+    stringifyQuery,
+    RichEmbed
 } from "@wilsonjs/client";
 
-import { BaseUrls } from "@wilsonjs/constants";
+import { ApiEndpoints, BaseUrls } from "@wilsonjs/constants";
 
 import { GlobalConfig } from "./GlobalConfig";
 import { FatalErrorModel } from "src/models/FatalError";
@@ -71,9 +72,9 @@ export class SwagclanApp {
                 method,
                 ...options,
                 headers: {
-                    ...(process.env.BOT_TOKEN
+                    ...(this.config.bot.bot_token
                         ? {
-                            Authorization: "Bot " + process.env.BOT_TOKEN
+                            Authorization: "Bot " + this.config.bot.bot_token
                         }
                         : {}),
                     ...options.headers
@@ -96,15 +97,7 @@ export class SwagclanApp {
 
             return (await res.blob()) as any;
         } else {
-            try {
-                const json = await res.json();
-
-                throw new Error(
-                    "JSON Error (" + json.code + "): " + json.message
-                );
-            } catch (e) {
-                throw res.status;
-            }
+            throw res.status;
         }
     }
 
@@ -161,6 +154,34 @@ export class SwagclanApp {
             error: error.message,
             stack_trace: error.stack
         });
+
+        const embed = new RichEmbed()
+            .setTitle("📛 Fatal Error")
+            .setBody("`" + error.message + "`")
+            .setColor([ 255, 0, 0 ]);
+
+        if (error.stack)
+            embed.addField(
+                "Stacktrace",
+                "```" + error.stack
+                    .split(process.cwd())
+                    .join("") + "```"
+            );
+
+        await this.make(
+            "POST",
+            ApiEndpoints.ExecuteWebhook,
+            {
+                body: JSON.stringify({
+                    embeds: [ embed.toJSON() ]
+                }),
+                headers: {
+                    "Content-Type": "application/json"
+                }
+            },
+            this.config.webhook.webhook_id,
+            this.config.webhook.webhook_token
+        );
 
         return uuid;
     }

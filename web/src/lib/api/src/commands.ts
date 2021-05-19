@@ -21,7 +21,7 @@ export async function getCommand(command: Resolvable, options: GetCommandRequest
 
     return await make("GET", ApiEndpoints.GetCommand(commandid), {
         query: {
-            author: options.getAuthor
+            author: options.getAuthor || false
         }
     });
 }

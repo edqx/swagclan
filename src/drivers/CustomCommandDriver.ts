@@ -99,7 +99,7 @@ export interface CustomCommandContext {
     args: Record<string, CustomCommandType>;
     config: Record<string, CustomCommandType>;
 }
-
+*/
 export enum CustomCommandTypeName {
     String = "string",
     Boolean = "boolean",
@@ -107,7 +107,7 @@ export enum CustomCommandTypeName {
     Member = "member",
     Channel = "channel",
     Role = "role"
-}*/
+}
 
 export class CustomCommandDriver/* extends Emittery<CustomCommandDriverEvents> */{
     static createDiscordInteraction(

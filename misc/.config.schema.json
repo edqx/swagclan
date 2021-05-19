@@ -62,6 +62,36 @@
     },
     "dev_guild": {
       "type": "string"
+    },
+    "client": {
+      "type": "object",
+      "properties": {
+        "client_id": {
+          "type": "string"
+        },
+        "client_secret": {
+          "type": "string"
+        }
+      }
+    },
+    "bot": {
+      "type": "object",
+      "properties": {
+        "bot_token": {
+          "type": "string"
+        }
+      }
+    },
+    "webhook": {
+      "type": "object",
+      "properties": {
+        "webhook_id": {
+          "type": "string"
+        },
+        "webhook_token": {
+          "type": "string"
+        }
+      }
     }
   }
 }

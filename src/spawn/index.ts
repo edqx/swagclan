@@ -49,7 +49,7 @@ export class SpawnApplication extends SwagclanApp {
                         "Content-Type": "application/json"
                     }
                 },
-                process.env.CLIENT_ID,
+                this.config.client.client_id,
                 this.config.dev_guild
             );
 
@@ -66,7 +66,7 @@ export class SpawnApplication extends SwagclanApp {
                         "Content-Type": "application/json"
                     }
                 },
-                process.env.CLIENT_ID
+                this.config.client.client_id
             );
 
             this.logger.info(commands + " command" + (commands.length === 1 ? "" : "s") + " were registered.");

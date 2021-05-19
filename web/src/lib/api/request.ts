@@ -1,4 +1,4 @@
-import { VITE_BASE_API  } from "$lib/env";
+import { VITE_BASE_API } from "$lib/env";
 import type { ScApiErrorResponse } from "@swagclan/shared";
 
 export type HttpMethod = "GET"|"POST"|"PATCH"|"PUT"|"DELETE";
@@ -52,6 +52,9 @@ export async function make<ResponseType = "">(method: HttpMethod, path: string, 
                 error: new Error(url + ": " + json.message + " (" + json.details + ")")
             };
         } catch (e) {
+            if (e.details)
+                throw e;
+
             throw res;
         }
     }

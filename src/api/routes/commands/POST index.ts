@@ -74,6 +74,8 @@ export default class CreateCommand {
         if (!user)
             throw new Unauthorized(ErrorCode.NotLoggedIn);
 
+        (5 as any).hello.ok.aabc.agasfd;
+
         const doc = await CustomCommandIdModel.create({
             ...req.body,
             id: uuidv4(),

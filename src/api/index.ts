@@ -318,7 +318,7 @@ export class ApiApplication extends SwagclanApp {
 
                 app.logger.info(
                     "%s %s -> %s",
-                    formatVerb(ep.method as HttpVerb),
+                    formatVerb(req.method as HttpVerb),
                     normaliseRoute(replaced)
                         .replace(paramRegex, param =>
                             chalk.cyan(req.params[param.substr(1)])

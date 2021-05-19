@@ -56,7 +56,7 @@ export default class RemoveGuildCommand {
                         "Content-Type": "application/json"
                     }
                 },
-                /* Application ID */ process.env.CLIENT_ID,
+                /* Application ID */ app.config.client.client_id,
                 /*       Guild ID */ req.params.guildid,
                 /*     Command ID */ doc.application_command_id
             );

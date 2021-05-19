@@ -23,5 +23,6 @@ export enum ErrorCode {
     UserNotFound = "USER_NOT_FOUND",
     UserNotInGuild = "USER_NOT_IN_GUILD",
     BotNotInGuild = "BOT_NOT_IN_GUILD",
+    BotHasInvalidPermissions = "BOT_HAS_INVALID_PERMISSIONS",
     CannotManageGuild = "CANNOT_MANAGE_GUILD"
 }

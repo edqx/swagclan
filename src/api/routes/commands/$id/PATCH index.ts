@@ -72,7 +72,7 @@ export default class UpdateCommand {
                                 "Content-Type": "application/json"
                             }
                         },
-                        /* Application ID */ process.env.CLIENT_ID,
+                        /* Application ID */ app.config.client.client_id,
                         /*       Guild ID */ guild_doc.guild_id,
                         /*     Command ID */ guild_doc.application_command_id
                     );
