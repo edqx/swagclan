@@ -5,7 +5,7 @@
     --dark-danger-hover: #fd404055;
     --dark-link: #2a79ff;
     --dark-link-hover: #274270;
-    --dark-disabled: rgb(60, 60, 60);
+    --dark-disabled: #3c3c3c;
 }
 
 html, body, #svelte {
@@ -28,6 +28,11 @@ a {
     cursor: pointer;
     text-decoration: none;
     color: var(--dark-link);
+}
+
+a.disabled {
+    cursor: default;
+    color: var(--dark-disabled);
 }
 
 a:hover {

@@ -22,8 +22,11 @@
                 }
             };
         } catch (e) {
-            console.log(e);
-            return e;
+            return {
+                props: {
+                    user: null
+                }
+            };
         }
 	}
 </script>

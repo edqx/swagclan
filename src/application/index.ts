@@ -1,3 +1,5 @@
+import "module-alias";
+
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import winston from "winston";
@@ -12,10 +14,10 @@ import {
     HttpMethod,
     HttpRequestOptions,
     formatEndpoint,
-    stringifyQuery
+    stringifyQuery,
+    RichEmbed
 } from "@wilsonjs/client";
-
-import { BaseUrls } from "@wilsonjs/constants";
+import { ApiEndpoints, BaseUrls } from "@wilsonjs/constants";
 
 import { GlobalConfig } from "./GlobalConfig";
 import { FatalErrorModel } from "src/models/FatalError";
@@ -161,6 +163,50 @@ export class SwagclanApp {
             error: error.message,
             stack_trace: error.stack
         });
+
+        const embed = new RichEmbed()
+            .setTitle("📛 Fatal Error")
+            .setBody("`" + error.message + "`")
+            .setColor(0xff0000);
+
+        if (error.stack)
+            embed.addField(
+                "Stacktrace",
+                "```" + error.stack
+                    .split(process.cwd())
+                    .join("") + "```"
+            );
+
+        if (details)
+            embed.addField(
+                "Details",
+                [
+                    "**id**: `" + uuid + "`",
+                    ...Object.entries(details)
+                        .map(([ key, value ]) => {
+                            return "**" + key + ":** `" + value + "`";
+                        })
+                ]
+                    .join("\n")
+            );
+
+        await this.make(
+            "POST",
+            ApiEndpoints.ExecuteWebhook,
+            {
+                body: JSON.stringify({
+                    embeds: [ embed.toJSON() ]
+                }),
+                query: {
+                    wait: "true"
+                },
+                headers: {
+                    "Content-Type": "application/json"
+                }
+            },
+            this.config.webhook.webhook_id,
+            this.config.webhook.webhook_token
+        );
 
         return uuid;
     }

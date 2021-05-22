@@ -30,6 +30,7 @@
     "emittery": "^0.8.1",
     "express": "^4.17.1",
     "influx": "^5.8.0",
+    "module-alias": "^2.2.2",
     "mongodb": "^3.6.5",
     "mongoose": "^5.12.10",
     "node-fetch": "^2.6.1",
@@ -71,5 +72,10 @@
   "workspaces": [
     "shared",
     "web"
-  ]
+  ],
+  "_moduleAliases": {
+    "src/*": [
+      "./src/*"
+    ]
+  }
 }

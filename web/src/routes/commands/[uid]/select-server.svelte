@@ -1,4 +1,5 @@
 <script context="module">
+    import { page } from "$app/stores";
     import { browser } from "$app/env";
     import { VITE_BASE_API } from "$lib/env.js";
 
@@ -34,7 +35,7 @@
 </script>
 
 <script>
-    import { page } from "$app/stores";
+    import { VITE_CLIENT_ID } from "$lib/env.js";
     import { goto, invalidate } from "$app/navigation";
 
     import PlusIcon from "$lib/icons/PlusIcon.svg";
@@ -47,6 +48,8 @@
     export let command;
     export let guilds;
 
+    let loading = false;
+
     let snackbar_open = false;
     let snackbar_message = "";
     function showMessage(message) {
@@ -57,6 +60,7 @@
     const command_version = $page.query.get("v") || command.version;
 
     async function onSelect(guild) {
+        loading = true;
         const redirect = $page.query.get("r") || ("/servers/" + guild.id + "/commands/" + command.id);
 
         try {
@@ -71,9 +75,25 @@
             await invalidate(redirect);
             goto(redirect);
         } catch (e) {
-            console.log(e);
-            showMessage("Failed to add command. (" + e.details + ")");
+            if (e.details === "BOT_HAS_INVALID_PERMISSIONS") {
+                const state = encodeURIComponent(JSON.stringify({
+                    type: "create-command",
+                    command_id: $page.params.uid,
+                    command_version,
+                    redirect
+                }));
+                location.href = `https://discord.com/api/oauth2/authorize?client_id=${VITE_CLIENT_ID}&permissions=8&guild_id=${guild.id}&response_type=code&redirect_uri=${encodeURIComponent(location.origin)}%2Fcallback&state=${state}&scope=bot%20applications.commands`;
+            } else {
+                console.log(e);
+                showMessage("Failed to add command. (" + e.details + ")");
+                loading = false;
+            }
         }
+    }
+
+    const error = $page.query.get("e");
+    if (error) {
+        showMessage("Failed to add command. (" + error + ")");
     }
 </script>
 
@@ -87,7 +107,7 @@
 
 <div class="select-server-list">
     <CustomCommand {command} version={command_version} show_author={true}/>
-    <GuildList {guilds} on:select={e => onSelect(e.detail)}>
+    <GuildList {guilds} on:select={e => onSelect(e.detail)} {loading}>
         <div slot="icon">
             <PlusIcon width={30}/>
         </div>

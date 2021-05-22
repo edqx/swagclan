@@ -25,6 +25,7 @@
   "type": "module",
   "dependencies": {
     "@netulip/rollup-plugin-svg": "^0.0.3",
+    "@swagclan/shared": "workspace:shared",
     "@wilsonjs/constants": "^0.0.19",
     "@wilsonjs/models": "^0.0.19",
     "rollup-plugin-svelte-svg": "^1.0.0-beta1",

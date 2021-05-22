@@ -55,7 +55,7 @@
     }
 
     .ball.toggled {
-        margin-left: 28 px;
+        margin-left: 28px;
         background-color: var(--dark-link);
     }
 </style>

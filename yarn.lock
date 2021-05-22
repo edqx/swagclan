@@ -3308,6 +3308,13 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
+"module-alias@npm:^2.2.2":
+  version: 2.2.2
+  resolution: "module-alias@npm:2.2.2"
+  checksum: 4b5543f834b484033e5bd184096ca8276b9195e32e88883ee6ea8d3a4789d97c470d26f5fa7271bd7a26588bf67e4d27dbdb594ee327aef1c9619d855dc78342
+  languageName: node
+  linkType: hard
+
 "mongodb@npm:3.6.6, mongodb@npm:^3.6.5":
   version: 3.6.6
   resolution: "mongodb@npm:3.6.6"
@@ -4702,6 +4709,7 @@ fsevents@~2.3.1:
   dependencies:
     "@netulip/rollup-plugin-svg": ^0.0.3
     "@sveltejs/kit": next
+    "@swagclan/shared": "workspace:shared"
     "@typescript-eslint/eslint-plugin": ^4.19.0
     "@typescript-eslint/parser": ^4.19.0
     "@wilsonjs/constants": ^0.0.19
@@ -4753,6 +4761,7 @@ fsevents@~2.3.1:
     influx: ^5.8.0
     lint-staged: ^10.5.4
     mocha: ^8.3.1
+    module-alias: ^2.2.2
     mongodb: ^3.6.5
     mongoose: ^5.12.10
     node-fetch: ^2.6.1

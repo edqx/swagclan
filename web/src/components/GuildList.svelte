@@ -11,6 +11,7 @@
     const dispatch = createEventDispatcher();
 
     export let guilds;
+    export let loading;
 
     let search_term = "";
     let found_guilds = [];
@@ -53,7 +54,7 @@
                     {/if}
                 </div>
                 <div class="guild-actions">
-                    <a class="guild-action" on:click={() => dispatch("select", guild)}>
+                    <a class="guild-action" on:click={() => dispatch("select", guild)} class:disabled={loading}>
                         <slot name="icon">
                             <GoIcon width={30}/>
                         </slot>
@@ -130,7 +131,7 @@
         align-items: center;
     }
 
-    .guild-action:hover {
+    .guild-action:not(.disabled):hover {
         background-color: rgba(255, 255, 255, 0.05);
     }
 

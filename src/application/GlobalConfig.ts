@@ -21,6 +21,20 @@ export interface OAuthConfig {
     permissions: string;
 }
 
+export interface ClientConfig {
+    client_id: string;
+    client_secret: string;
+}
+
+export interface BotConfig {
+    bot_token: string;
+}
+
+export interface WebhookConfig {
+    webhook_id: string;
+    webhook_token: string;
+}
+
 export interface GlobalConfig {
     mongo: MongoCredentials;
     redis: RedisCredentials;
@@ -29,4 +43,7 @@ export interface GlobalConfig {
     base_web: string;
     oauth: OAuthConfig;
     dev_guild: string;
+    client: ClientConfig;
+    bot: BotConfig;
+    webhook: WebhookConfig;
 }

@@ -28,9 +28,13 @@
             }
         } catch (e) {
             if (e.details === "BOT_NOT_IN_GUILD") {
+                const state = encodeURIComponent(JSON.stringify({
+                    type: "dashboard"
+                }));
+
                 return {
                     status: 302,
-                    redirect: `https://discord.com/api/oauth2/authorize?client_id=${VITE_CLIENT_ID}&permissions=8&guild_id=${page.params.guildid}&response_type=code&redirect_uri=${encodeURIComponent(location.origin)}%2Fcallback&scope=bot%20applications.commands`
+                    redirect: `https://discord.com/api/oauth2/authorize?client_id=${VITE_CLIENT_ID}&permissions=8&guild_id=${page.params.guildid}&response_type=code&redirect_uri=${encodeURIComponent(location.origin)}%2Fcallback&state=${state}&scope=bot%20applications.commands`
                 }
             }
 

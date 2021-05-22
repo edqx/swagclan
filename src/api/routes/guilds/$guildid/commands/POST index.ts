@@ -46,6 +46,8 @@ export default class CreateGuildCommand {
     ) {
         const user = await req.session?.getUser();
 
+        console.log(user);
+
         if (!user)
             throw new Unauthorized(ErrorCode.NotLoggedIn);
 
